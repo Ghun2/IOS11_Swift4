@@ -7,29 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		307E67A82086088700CE1AD6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 307E67A72086088700CE1AD6 /* AppDelegate.swift */; };
-		307E67AA2086088700CE1AD6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 307E67A92086088700CE1AD6 /* ViewController.swift */; };
-		307E67AD2086088700CE1AD6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 307E67AB2086088700CE1AD6 /* Main.storyboard */; };
-		307E67AF2086088D00CE1AD6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 307E67AE2086088D00CE1AD6 /* Assets.xcassets */; };
-		307E67B22086088D00CE1AD6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 307E67B02086088D00CE1AD6 /* LaunchScreen.storyboard */; };
-		307E67BC20860CF100CE1AD6 /* Book.swift in Sources */ = {isa = PBXBuildFile; fileRef = 307E67B920860CF100CE1AD6 /* Book.swift */; };
-		307E67BD20860CF100CE1AD6 /* BookManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 307E67BA20860CF100CE1AD6 /* BookManager.swift */; };
+		30180855208F17C5000F5378 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30180854208F17C5000F5378 /* AppDelegate.swift */; };
+		30180857208F17C5000F5378 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30180856208F17C5000F5378 /* ViewController.swift */; };
+		3018085A208F17C5000F5378 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 30180858208F17C5000F5378 /* Main.storyboard */; };
+		3018085C208F17C7000F5378 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3018085B208F17C7000F5378 /* Assets.xcassets */; };
+		3018085F208F17C7000F5378 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3018085D208F17C7000F5378 /* LaunchScreen.storyboard */; };
+		30180867208F1884000F5378 /* Background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 30180866208F1883000F5378 /* Background.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		307E67A42086088700CE1AD6 /* visualBookManager.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = visualBookManager.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		307E67A72086088700CE1AD6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		307E67A92086088700CE1AD6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		307E67AC2086088700CE1AD6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		307E67AE2086088D00CE1AD6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		307E67B12086088D00CE1AD6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		307E67B32086088D00CE1AD6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		307E67B920860CF100CE1AD6 /* Book.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Book.swift; sourceTree = "<group>"; };
-		307E67BA20860CF100CE1AD6 /* BookManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BookManager.swift; sourceTree = "<group>"; };
+		30180851208F17C5000F5378 /* FlightBooking.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlightBooking.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		30180854208F17C5000F5378 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		30180856208F17C5000F5378 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		30180859208F17C5000F5378 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		3018085B208F17C7000F5378 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3018085E208F17C7000F5378 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		30180860208F17C7000F5378 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		30180866208F1883000F5378 /* Background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Background.jpg; path = ../../DigitalFrame/DigitalFrame/Resource/Background.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		307E67A12086088700CE1AD6 /* Frameworks */ = {
+		3018084E208F17C5000F5378 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -39,73 +37,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		307E679B2086088700CE1AD6 = {
+		30180848208F17C5000F5378 = {
 			isa = PBXGroup;
 			children = (
-				307E67A62086088700CE1AD6 /* visualBookManager */,
-				307E67A52086088700CE1AD6 /* Products */,
+				30180853208F17C5000F5378 /* FlightBooking */,
+				30180852208F17C5000F5378 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		307E67A52086088700CE1AD6 /* Products */ = {
+		30180852208F17C5000F5378 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				307E67A42086088700CE1AD6 /* visualBookManager.app */,
+				30180851208F17C5000F5378 /* FlightBooking.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		307E67A62086088700CE1AD6 /* visualBookManager */ = {
+		30180853208F17C5000F5378 /* FlightBooking */ = {
 			isa = PBXGroup;
 			children = (
-				307E67AB2086088700CE1AD6 /* Main.storyboard */,
-				307E67A92086088700CE1AD6 /* ViewController.swift */,
-				307E67B920860CF100CE1AD6 /* Book.swift */,
-				307E67BA20860CF100CE1AD6 /* BookManager.swift */,
-				307E67A72086088700CE1AD6 /* AppDelegate.swift */,
-				307E67AE2086088D00CE1AD6 /* Assets.xcassets */,
-				307E67B02086088D00CE1AD6 /* LaunchScreen.storyboard */,
-				307E67B32086088D00CE1AD6 /* Info.plist */,
+				30180858208F17C5000F5378 /* Main.storyboard */,
+				30180856208F17C5000F5378 /* ViewController.swift */,
+				30180866208F1883000F5378 /* Background.jpg */,
+				30180854208F17C5000F5378 /* AppDelegate.swift */,
+				3018085B208F17C7000F5378 /* Assets.xcassets */,
+				3018085D208F17C7000F5378 /* LaunchScreen.storyboard */,
+				30180860208F17C7000F5378 /* Info.plist */,
 			);
-			path = visualBookManager;
+			path = FlightBooking;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		307E67A32086088700CE1AD6 /* visualBookManager */ = {
+		30180850208F17C5000F5378 /* FlightBooking */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 307E67B62086088D00CE1AD6 /* Build configuration list for PBXNativeTarget "visualBookManager" */;
+			buildConfigurationList = 30180863208F17C7000F5378 /* Build configuration list for PBXNativeTarget "FlightBooking" */;
 			buildPhases = (
-				307E67A02086088700CE1AD6 /* Sources */,
-				307E67A12086088700CE1AD6 /* Frameworks */,
-				307E67A22086088700CE1AD6 /* Resources */,
+				3018084D208F17C5000F5378 /* Sources */,
+				3018084E208F17C5000F5378 /* Frameworks */,
+				3018084F208F17C5000F5378 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = visualBookManager;
-			productName = visualBookManager;
-			productReference = 307E67A42086088700CE1AD6 /* visualBookManager.app */;
+			name = FlightBooking;
+			productName = FlightBooking;
+			productReference = 30180851208F17C5000F5378 /* FlightBooking.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		307E679C2086088700CE1AD6 /* Project object */ = {
+		30180849208F17C5000F5378 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0930;
 				LastUpgradeCheck = 0930;
 				ORGANIZATIONNAME = Ghun2;
 				TargetAttributes = {
-					307E67A32086088700CE1AD6 = {
+					30180850208F17C5000F5378 = {
 						CreatedOnToolsVersion = 9.3;
 					};
 				};
 			};
-			buildConfigurationList = 307E679F2086088700CE1AD6 /* Build configuration list for PBXProject "visualBookManager" */;
+			buildConfigurationList = 3018084C208F17C5000F5378 /* Build configuration list for PBXProject "FlightBooking" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -113,56 +110,55 @@
 				en,
 				Base,
 			);
-			mainGroup = 307E679B2086088700CE1AD6;
-			productRefGroup = 307E67A52086088700CE1AD6 /* Products */;
+			mainGroup = 30180848208F17C5000F5378;
+			productRefGroup = 30180852208F17C5000F5378 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				307E67A32086088700CE1AD6 /* visualBookManager */,
+				30180850208F17C5000F5378 /* FlightBooking */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		307E67A22086088700CE1AD6 /* Resources */ = {
+		3018084F208F17C5000F5378 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				307E67B22086088D00CE1AD6 /* LaunchScreen.storyboard in Resources */,
-				307E67AF2086088D00CE1AD6 /* Assets.xcassets in Resources */,
-				307E67AD2086088700CE1AD6 /* Main.storyboard in Resources */,
+				30180867208F1884000F5378 /* Background.jpg in Resources */,
+				3018085F208F17C7000F5378 /* LaunchScreen.storyboard in Resources */,
+				3018085C208F17C7000F5378 /* Assets.xcassets in Resources */,
+				3018085A208F17C5000F5378 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		307E67A02086088700CE1AD6 /* Sources */ = {
+		3018084D208F17C5000F5378 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				307E67AA2086088700CE1AD6 /* ViewController.swift in Sources */,
-				307E67A82086088700CE1AD6 /* AppDelegate.swift in Sources */,
-				307E67BD20860CF100CE1AD6 /* BookManager.swift in Sources */,
-				307E67BC20860CF100CE1AD6 /* Book.swift in Sources */,
+				30180857208F17C5000F5378 /* ViewController.swift in Sources */,
+				30180855208F17C5000F5378 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		307E67AB2086088700CE1AD6 /* Main.storyboard */ = {
+		30180858208F17C5000F5378 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				307E67AC2086088700CE1AD6 /* Base */,
+				30180859208F17C5000F5378 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		307E67B02086088D00CE1AD6 /* LaunchScreen.storyboard */ = {
+		3018085D208F17C7000F5378 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				307E67B12086088D00CE1AD6 /* Base */,
+				3018085E208F17C7000F5378 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -170,7 +166,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		307E67B42086088D00CE1AD6 /* Debug */ = {
+		30180861208F17C7000F5378 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -230,7 +226,7 @@
 			};
 			name = Debug;
 		};
-		307E67B52086088D00CE1AD6 /* Release */ = {
+		30180862208F17C7000F5378 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -284,36 +280,34 @@
 			};
 			name = Release;
 		};
-		307E67B72086088D00CE1AD6 /* Debug */ = {
+		30180864208F17C7000F5378 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 5Y92W5N2FZ;
-				INFOPLIST_FILE = visualBookManager/Info.plist;
+				INFOPLIST_FILE = FlightBooking/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = kr.ghun.visualBookManager;
+				PRODUCT_BUNDLE_IDENTIFIER = kr.ghun.FlightBooking;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		307E67B82086088D00CE1AD6 /* Release */ = {
+		30180865208F17C7000F5378 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 5Y92W5N2FZ;
-				INFOPLIST_FILE = visualBookManager/Info.plist;
+				INFOPLIST_FILE = FlightBooking/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = kr.ghun.visualBookManager;
+				PRODUCT_BUNDLE_IDENTIFIER = kr.ghun.FlightBooking;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -323,25 +317,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		307E679F2086088700CE1AD6 /* Build configuration list for PBXProject "visualBookManager" */ = {
+		3018084C208F17C5000F5378 /* Build configuration list for PBXProject "FlightBooking" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				307E67B42086088D00CE1AD6 /* Debug */,
-				307E67B52086088D00CE1AD6 /* Release */,
+				30180861208F17C7000F5378 /* Debug */,
+				30180862208F17C7000F5378 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		307E67B62086088D00CE1AD6 /* Build configuration list for PBXNativeTarget "visualBookManager" */ = {
+		30180863208F17C7000F5378 /* Build configuration list for PBXNativeTarget "FlightBooking" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				307E67B72086088D00CE1AD6 /* Debug */,
-				307E67B82086088D00CE1AD6 /* Release */,
+				30180864208F17C7000F5378 /* Debug */,
+				30180865208F17C7000F5378 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 307E679C2086088700CE1AD6 /* Project object */;
+	rootObject = 30180849208F17C5000F5378 /* Project object */;
 }
