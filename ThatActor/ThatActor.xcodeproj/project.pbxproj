@@ -7,25 +7,35 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		30BE0D112099BA1D006B7CAD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30BE0D102099BA1D006B7CAD /* AppDelegate.swift */; };
-		30BE0D132099BA1D006B7CAD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30BE0D122099BA1D006B7CAD /* ViewController.swift */; };
-		30BE0D162099BA1D006B7CAD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 30BE0D142099BA1D006B7CAD /* Main.storyboard */; };
-		30BE0D182099BA1F006B7CAD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 30BE0D172099BA1F006B7CAD /* Assets.xcassets */; };
-		30BE0D1B2099BA1F006B7CAD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 30BE0D192099BA1F006B7CAD /* LaunchScreen.storyboard */; };
+		301670FA20BFDD32003FFF4D /* DetailMainCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 301670F920BFDD32003FFF4D /* DetailMainCell.swift */; };
+		308778F820C6549F006787F9 /* logo1.png in Resources */ = {isa = PBXBuildFile; fileRef = 308778F620C6549F006787F9 /* logo1.png */; };
+		308778F920C6549F006787F9 /* logo2.png in Resources */ = {isa = PBXBuildFile; fileRef = 308778F720C6549F006787F9 /* logo2.png */; };
+		308778FB20C68415006787F9 /* logo3.png in Resources */ = {isa = PBXBuildFile; fileRef = 308778FA20C68415006787F9 /* logo3.png */; };
+		30FB9E7E20B6CFCB00970C5F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30FB9E7D20B6CFCB00970C5F /* AppDelegate.swift */; };
+		30FB9E8020B6CFCB00970C5F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30FB9E7F20B6CFCB00970C5F /* ViewController.swift */; };
+		30FB9E8320B6CFCB00970C5F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 30FB9E8120B6CFCB00970C5F /* Main.storyboard */; };
+		30FB9E8520B6CFCD00970C5F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 30FB9E8420B6CFCD00970C5F /* Assets.xcassets */; };
+		30FB9E8820B6CFCD00970C5F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 30FB9E8620B6CFCD00970C5F /* LaunchScreen.storyboard */; };
+		30FB9E9020B6D27D00970C5F /* RecruitCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30FB9E8F20B6D27D00970C5F /* RecruitCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		30BE0D0D2099BA1D006B7CAD /* imageDownloader.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = imageDownloader.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		30BE0D102099BA1D006B7CAD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		30BE0D122099BA1D006B7CAD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		30BE0D152099BA1D006B7CAD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		30BE0D172099BA1F006B7CAD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		30BE0D1A2099BA1F006B7CAD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		30BE0D1C2099BA1F006B7CAD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		301670F920BFDD32003FFF4D /* DetailMainCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailMainCell.swift; sourceTree = "<group>"; };
+		308778F620C6549F006787F9 /* logo1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo1.png; sourceTree = "<group>"; };
+		308778F720C6549F006787F9 /* logo2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo2.png; sourceTree = "<group>"; };
+		308778FA20C68415006787F9 /* logo3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo3.png; sourceTree = "<group>"; };
+		30FB9E7A20B6CFCB00970C5F /* ThatActor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ThatActor.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		30FB9E7D20B6CFCB00970C5F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		30FB9E7F20B6CFCB00970C5F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		30FB9E8220B6CFCB00970C5F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		30FB9E8420B6CFCD00970C5F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		30FB9E8720B6CFCD00970C5F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		30FB9E8920B6CFCD00970C5F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		30FB9E8F20B6D27D00970C5F /* RecruitCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecruitCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		30BE0D0A2099BA1D006B7CAD /* Frameworks */ = {
+		30FB9E7720B6CFCB00970C5F /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -35,71 +45,92 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		30BE0D042099BA1D006B7CAD = {
+		308778F420C65487006787F9 /* resource */ = {
 			isa = PBXGroup;
 			children = (
-				30BE0D0F2099BA1D006B7CAD /* imageDownloader */,
-				30BE0D0E2099BA1D006B7CAD /* Products */,
+				308778F520C65491006787F9 /* img */,
+			);
+			path = resource;
+			sourceTree = "<group>";
+		};
+		308778F520C65491006787F9 /* img */ = {
+			isa = PBXGroup;
+			children = (
+				308778F620C6549F006787F9 /* logo1.png */,
+				308778F720C6549F006787F9 /* logo2.png */,
+				308778FA20C68415006787F9 /* logo3.png */,
+			);
+			path = img;
+			sourceTree = "<group>";
+		};
+		30FB9E7120B6CFCB00970C5F = {
+			isa = PBXGroup;
+			children = (
+				30FB9E7C20B6CFCB00970C5F /* ThatActor */,
+				30FB9E7B20B6CFCB00970C5F /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		30BE0D0E2099BA1D006B7CAD /* Products */ = {
+		30FB9E7B20B6CFCB00970C5F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				30BE0D0D2099BA1D006B7CAD /* imageDownloader.app */,
+				30FB9E7A20B6CFCB00970C5F /* ThatActor.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		30BE0D0F2099BA1D006B7CAD /* imageDownloader */ = {
+		30FB9E7C20B6CFCB00970C5F /* ThatActor */ = {
 			isa = PBXGroup;
 			children = (
-				30BE0D142099BA1D006B7CAD /* Main.storyboard */,
-				30BE0D122099BA1D006B7CAD /* ViewController.swift */,
-				30BE0D102099BA1D006B7CAD /* AppDelegate.swift */,
-				30BE0D172099BA1F006B7CAD /* Assets.xcassets */,
-				30BE0D192099BA1F006B7CAD /* LaunchScreen.storyboard */,
-				30BE0D1C2099BA1F006B7CAD /* Info.plist */,
+				308778F420C65487006787F9 /* resource */,
+				30FB9E8120B6CFCB00970C5F /* Main.storyboard */,
+				30FB9E7F20B6CFCB00970C5F /* ViewController.swift */,
+				30FB9E8F20B6D27D00970C5F /* RecruitCell.swift */,
+				301670F920BFDD32003FFF4D /* DetailMainCell.swift */,
+				30FB9E7D20B6CFCB00970C5F /* AppDelegate.swift */,
+				30FB9E8420B6CFCD00970C5F /* Assets.xcassets */,
+				30FB9E8620B6CFCD00970C5F /* LaunchScreen.storyboard */,
+				30FB9E8920B6CFCD00970C5F /* Info.plist */,
 			);
-			path = imageDownloader;
+			path = ThatActor;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		30BE0D0C2099BA1D006B7CAD /* imageDownloader */ = {
+		30FB9E7920B6CFCB00970C5F /* ThatActor */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 30BE0D1F2099BA1F006B7CAD /* Build configuration list for PBXNativeTarget "imageDownloader" */;
+			buildConfigurationList = 30FB9E8C20B6CFCD00970C5F /* Build configuration list for PBXNativeTarget "ThatActor" */;
 			buildPhases = (
-				30BE0D092099BA1D006B7CAD /* Sources */,
-				30BE0D0A2099BA1D006B7CAD /* Frameworks */,
-				30BE0D0B2099BA1D006B7CAD /* Resources */,
+				30FB9E7620B6CFCB00970C5F /* Sources */,
+				30FB9E7720B6CFCB00970C5F /* Frameworks */,
+				30FB9E7820B6CFCB00970C5F /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = imageDownloader;
-			productName = imageDownloader;
-			productReference = 30BE0D0D2099BA1D006B7CAD /* imageDownloader.app */;
+			name = ThatActor;
+			productName = ThatActor;
+			productReference = 30FB9E7A20B6CFCB00970C5F /* ThatActor.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		30BE0D052099BA1D006B7CAD /* Project object */ = {
+		30FB9E7220B6CFCB00970C5F /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0930;
 				LastUpgradeCheck = 0930;
 				ORGANIZATIONNAME = Ghun2;
 				TargetAttributes = {
-					30BE0D0C2099BA1D006B7CAD = {
-						CreatedOnToolsVersion = 9.3;
+					30FB9E7920B6CFCB00970C5F = {
+						CreatedOnToolsVersion = 9.3.1;
 					};
 				};
 			};
-			buildConfigurationList = 30BE0D082099BA1D006B7CAD /* Build configuration list for PBXProject "imageDownloader" */;
+			buildConfigurationList = 30FB9E7520B6CFCB00970C5F /* Build configuration list for PBXProject "ThatActor" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -107,54 +138,59 @@
 				en,
 				Base,
 			);
-			mainGroup = 30BE0D042099BA1D006B7CAD;
-			productRefGroup = 30BE0D0E2099BA1D006B7CAD /* Products */;
+			mainGroup = 30FB9E7120B6CFCB00970C5F;
+			productRefGroup = 30FB9E7B20B6CFCB00970C5F /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				30BE0D0C2099BA1D006B7CAD /* imageDownloader */,
+				30FB9E7920B6CFCB00970C5F /* ThatActor */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		30BE0D0B2099BA1D006B7CAD /* Resources */ = {
+		30FB9E7820B6CFCB00970C5F /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				30BE0D1B2099BA1F006B7CAD /* LaunchScreen.storyboard in Resources */,
-				30BE0D182099BA1F006B7CAD /* Assets.xcassets in Resources */,
-				30BE0D162099BA1D006B7CAD /* Main.storyboard in Resources */,
+				30FB9E8820B6CFCD00970C5F /* LaunchScreen.storyboard in Resources */,
+				308778F920C6549F006787F9 /* logo2.png in Resources */,
+				30FB9E8520B6CFCD00970C5F /* Assets.xcassets in Resources */,
+				308778F820C6549F006787F9 /* logo1.png in Resources */,
+				308778FB20C68415006787F9 /* logo3.png in Resources */,
+				30FB9E8320B6CFCB00970C5F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		30BE0D092099BA1D006B7CAD /* Sources */ = {
+		30FB9E7620B6CFCB00970C5F /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				30BE0D132099BA1D006B7CAD /* ViewController.swift in Sources */,
-				30BE0D112099BA1D006B7CAD /* AppDelegate.swift in Sources */,
+				30FB9E9020B6D27D00970C5F /* RecruitCell.swift in Sources */,
+				30FB9E8020B6CFCB00970C5F /* ViewController.swift in Sources */,
+				30FB9E7E20B6CFCB00970C5F /* AppDelegate.swift in Sources */,
+				301670FA20BFDD32003FFF4D /* DetailMainCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		30BE0D142099BA1D006B7CAD /* Main.storyboard */ = {
+		30FB9E8120B6CFCB00970C5F /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				30BE0D152099BA1D006B7CAD /* Base */,
+				30FB9E8220B6CFCB00970C5F /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		30BE0D192099BA1F006B7CAD /* LaunchScreen.storyboard */ = {
+		30FB9E8620B6CFCD00970C5F /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				30BE0D1A2099BA1F006B7CAD /* Base */,
+				30FB9E8720B6CFCD00970C5F /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -162,7 +198,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		30BE0D1D2099BA1F006B7CAD /* Debug */ = {
+		30FB9E8A20B6CFCD00970C5F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -222,7 +258,7 @@
 			};
 			name = Debug;
 		};
-		30BE0D1E2099BA1F006B7CAD /* Release */ = {
+		30FB9E8B20B6CFCD00970C5F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -276,39 +312,37 @@
 			};
 			name = Release;
 		};
-		30BE0D202099BA1F006B7CAD /* Debug */ = {
+		30FB9E8D20B6CFCD00970C5F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = "";
-				INFOPLIST_FILE = imageDownloader/Info.plist;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 5Y92W5N2FZ;
+				INFOPLIST_FILE = ThatActor/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = kr.ghun.imageDownloader;
+				PRODUCT_BUNDLE_IDENTIFIER = kr.ghun.ThatActor;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		30BE0D212099BA1F006B7CAD /* Release */ = {
+		30FB9E8E20B6CFCD00970C5F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = "";
-				INFOPLIST_FILE = imageDownloader/Info.plist;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 5Y92W5N2FZ;
+				INFOPLIST_FILE = ThatActor/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = kr.ghun.imageDownloader;
+				PRODUCT_BUNDLE_IDENTIFIER = kr.ghun.ThatActor;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -317,25 +351,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		30BE0D082099BA1D006B7CAD /* Build configuration list for PBXProject "imageDownloader" */ = {
+		30FB9E7520B6CFCB00970C5F /* Build configuration list for PBXProject "ThatActor" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				30BE0D1D2099BA1F006B7CAD /* Debug */,
-				30BE0D1E2099BA1F006B7CAD /* Release */,
+				30FB9E8A20B6CFCD00970C5F /* Debug */,
+				30FB9E8B20B6CFCD00970C5F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		30BE0D1F2099BA1F006B7CAD /* Build configuration list for PBXNativeTarget "imageDownloader" */ = {
+		30FB9E8C20B6CFCD00970C5F /* Build configuration list for PBXNativeTarget "ThatActor" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				30BE0D202099BA1F006B7CAD /* Debug */,
-				30BE0D212099BA1F006B7CAD /* Release */,
+				30FB9E8D20B6CFCD00970C5F /* Debug */,
+				30FB9E8E20B6CFCD00970C5F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 30BE0D052099BA1D006B7CAD /* Project object */;
+	rootObject = 30FB9E7220B6CFCB00970C5F /* Project object */;
 }

@@ -18,6 +18,8 @@
 		3062C6E0209AE5C100DC0C3F /* rainy.png in Resources */ = {isa = PBXBuildFile; fileRef = 3062C6DB209AE5C100DC0C3F /* rainy.png */; };
 		3062C6E1209AE5C100DC0C3F /* snow.png in Resources */ = {isa = PBXBuildFile; fileRef = 3062C6DC209AE5C100DC0C3F /* snow.png */; };
 		3062C6E2209AE5C100DC0C3F /* blizzard.png in Resources */ = {isa = PBXBuildFile; fileRef = 3062C6DD209AE5C100DC0C3F /* blizzard.png */; };
+		3094CC8D20A1AAF700AD66F9 /* lan_rioja.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3094CC8B20A1AAF700AD66F9 /* lan_rioja.jpg */; };
+		3094CC8E20A1AAF700AD66F9 /* saint_cosme.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3094CC8C20A1AAF700AD66F9 /* saint_cosme.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +36,8 @@
 		3062C6DB209AE5C100DC0C3F /* rainy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = rainy.png; path = ../../../WeatherTable/WeatherTable/Resource/rainy.png; sourceTree = "<group>"; };
 		3062C6DC209AE5C100DC0C3F /* snow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = snow.png; path = ../../../WeatherTable/WeatherTable/Resource/snow.png; sourceTree = "<group>"; };
 		3062C6DD209AE5C100DC0C3F /* blizzard.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = blizzard.png; path = ../../../WeatherTable/WeatherTable/Resource/blizzard.png; sourceTree = "<group>"; };
+		3094CC8B20A1AAF700AD66F9 /* lan_rioja.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lan_rioja.jpg; sourceTree = "<group>"; };
+		3094CC8C20A1AAF700AD66F9 /* saint_cosme.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = saint_cosme.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +85,8 @@
 		3062C6D6209AE58300DC0C3F /* Resource */ = {
 			isa = PBXGroup;
 			children = (
+				3094CC8B20A1AAF700AD66F9 /* lan_rioja.jpg */,
+				3094CC8C20A1AAF700AD66F9 /* saint_cosme.jpg */,
 				3062C6DD209AE5C100DC0C3F /* blizzard.png */,
 				3062C6DA209AE5C100DC0C3F /* cloudy.png */,
 				3062C6DB209AE5C100DC0C3F /* rainy.png */,
@@ -148,10 +154,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3094CC8D20A1AAF700AD66F9 /* lan_rioja.jpg in Resources */,
 				3062C6CD209AE47400DC0C3F /* LaunchScreen.storyboard in Resources */,
 				3062C6E2209AE5C100DC0C3F /* blizzard.png in Resources */,
 				3062C6E0209AE5C100DC0C3F /* rainy.png in Resources */,
 				3062C6DE209AE5C100DC0C3F /* sunny.png in Resources */,
+				3094CC8E20A1AAF700AD66F9 /* saint_cosme.jpg in Resources */,
 				3062C6CA209AE47400DC0C3F /* Assets.xcassets in Resources */,
 				3062C6DF209AE5C100DC0C3F /* cloudy.png in Resources */,
 				3062C6E1209AE5C100DC0C3F /* snow.png in Resources */,

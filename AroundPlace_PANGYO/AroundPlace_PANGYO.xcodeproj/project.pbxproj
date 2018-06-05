@@ -7,25 +7,31 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		30BE0D112099BA1D006B7CAD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30BE0D102099BA1D006B7CAD /* AppDelegate.swift */; };
-		30BE0D132099BA1D006B7CAD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30BE0D122099BA1D006B7CAD /* ViewController.swift */; };
-		30BE0D162099BA1D006B7CAD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 30BE0D142099BA1D006B7CAD /* Main.storyboard */; };
-		30BE0D182099BA1F006B7CAD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 30BE0D172099BA1F006B7CAD /* Assets.xcassets */; };
-		30BE0D1B2099BA1F006B7CAD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 30BE0D192099BA1F006B7CAD /* LaunchScreen.storyboard */; };
+		301947AB209C4839005C42C4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 301947AA209C4839005C42C4 /* AppDelegate.swift */; };
+		301947AD209C4839005C42C4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 301947AC209C4839005C42C4 /* ViewController.swift */; };
+		301947B0209C4839005C42C4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 301947AE209C4839005C42C4 /* Main.storyboard */; };
+		301947B2209C483A005C42C4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 301947B1209C483A005C42C4 /* Assets.xcassets */; };
+		301947B5209C483A005C42C4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 301947B3209C483A005C42C4 /* LaunchScreen.storyboard */; };
+		301947C1209C4A7D005C42C4 /* MainTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 301947C0209C4A7D005C42C4 /* MainTableViewCell.swift */; };
+		301947C3209C526E005C42C4 /* exam01.png in Resources */ = {isa = PBXBuildFile; fileRef = 301947C2209C526E005C42C4 /* exam01.png */; };
+		3027CC39209C579B00B521B0 /* exam02.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3027CC38209C579B00B521B0 /* exam02.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		30BE0D0D2099BA1D006B7CAD /* imageDownloader.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = imageDownloader.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		30BE0D102099BA1D006B7CAD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		30BE0D122099BA1D006B7CAD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		30BE0D152099BA1D006B7CAD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		30BE0D172099BA1F006B7CAD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		30BE0D1A2099BA1F006B7CAD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		30BE0D1C2099BA1F006B7CAD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		301947A7209C4839005C42C4 /* AroundPlace_PANGYO.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AroundPlace_PANGYO.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		301947AA209C4839005C42C4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		301947AC209C4839005C42C4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		301947AF209C4839005C42C4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		301947B1209C483A005C42C4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		301947B4209C483A005C42C4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		301947B6209C483A005C42C4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		301947C0209C4A7D005C42C4 /* MainTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTableViewCell.swift; sourceTree = "<group>"; };
+		301947C2209C526E005C42C4 /* exam01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = exam01.png; sourceTree = "<group>"; };
+		3027CC38209C579B00B521B0 /* exam02.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = exam02.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		30BE0D0A2099BA1D006B7CAD /* Frameworks */ = {
+		301947A4209C4838005C42C4 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -35,71 +41,106 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		30BE0D042099BA1D006B7CAD = {
+		3019479E209C4838005C42C4 = {
 			isa = PBXGroup;
 			children = (
-				30BE0D0F2099BA1D006B7CAD /* imageDownloader */,
-				30BE0D0E2099BA1D006B7CAD /* Products */,
+				301947A9209C4839005C42C4 /* AroundPlace_PANGYO */,
+				301947A8209C4839005C42C4 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		30BE0D0E2099BA1D006B7CAD /* Products */ = {
+		301947A8209C4839005C42C4 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				30BE0D0D2099BA1D006B7CAD /* imageDownloader.app */,
+				301947A7209C4839005C42C4 /* AroundPlace_PANGYO.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		30BE0D0F2099BA1D006B7CAD /* imageDownloader */ = {
+		301947A9209C4839005C42C4 /* AroundPlace_PANGYO */ = {
 			isa = PBXGroup;
 			children = (
-				30BE0D142099BA1D006B7CAD /* Main.storyboard */,
-				30BE0D122099BA1D006B7CAD /* ViewController.swift */,
-				30BE0D102099BA1D006B7CAD /* AppDelegate.swift */,
-				30BE0D172099BA1F006B7CAD /* Assets.xcassets */,
-				30BE0D192099BA1F006B7CAD /* LaunchScreen.storyboard */,
-				30BE0D1C2099BA1F006B7CAD /* Info.plist */,
+				301947AE209C4839005C42C4 /* Main.storyboard */,
+				301947AC209C4839005C42C4 /* ViewController.swift */,
+				301947C0209C4A7D005C42C4 /* MainTableViewCell.swift */,
+				301947BC209C4864005C42C4 /* assets */,
+				301947AA209C4839005C42C4 /* AppDelegate.swift */,
+				301947B1209C483A005C42C4 /* Assets.xcassets */,
+				301947B3209C483A005C42C4 /* LaunchScreen.storyboard */,
+				301947B6209C483A005C42C4 /* Info.plist */,
 			);
-			path = imageDownloader;
+			path = AroundPlace_PANGYO;
+			sourceTree = "<group>";
+		};
+		301947BC209C4864005C42C4 /* assets */ = {
+			isa = PBXGroup;
+			children = (
+				301947BF209C489D005C42C4 /* etc */,
+				301947BE209C4892005C42C4 /* lib */,
+				301947BD209C488B005C42C4 /* img */,
+			);
+			path = assets;
+			sourceTree = "<group>";
+		};
+		301947BD209C488B005C42C4 /* img */ = {
+			isa = PBXGroup;
+			children = (
+				3027CC38209C579B00B521B0 /* exam02.jpg */,
+				301947C2209C526E005C42C4 /* exam01.png */,
+			);
+			path = img;
+			sourceTree = "<group>";
+		};
+		301947BE209C4892005C42C4 /* lib */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = lib;
+			sourceTree = "<group>";
+		};
+		301947BF209C489D005C42C4 /* etc */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = etc;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		30BE0D0C2099BA1D006B7CAD /* imageDownloader */ = {
+		301947A6209C4838005C42C4 /* AroundPlace_PANGYO */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 30BE0D1F2099BA1F006B7CAD /* Build configuration list for PBXNativeTarget "imageDownloader" */;
+			buildConfigurationList = 301947B9209C483A005C42C4 /* Build configuration list for PBXNativeTarget "AroundPlace_PANGYO" */;
 			buildPhases = (
-				30BE0D092099BA1D006B7CAD /* Sources */,
-				30BE0D0A2099BA1D006B7CAD /* Frameworks */,
-				30BE0D0B2099BA1D006B7CAD /* Resources */,
+				301947A3209C4838005C42C4 /* Sources */,
+				301947A4209C4838005C42C4 /* Frameworks */,
+				301947A5209C4838005C42C4 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = imageDownloader;
-			productName = imageDownloader;
-			productReference = 30BE0D0D2099BA1D006B7CAD /* imageDownloader.app */;
+			name = AroundPlace_PANGYO;
+			productName = AroundPlace_PANGYO;
+			productReference = 301947A7209C4839005C42C4 /* AroundPlace_PANGYO.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		30BE0D052099BA1D006B7CAD /* Project object */ = {
+		3019479F209C4838005C42C4 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0930;
 				LastUpgradeCheck = 0930;
 				ORGANIZATIONNAME = Ghun2;
 				TargetAttributes = {
-					30BE0D0C2099BA1D006B7CAD = {
+					301947A6209C4838005C42C4 = {
 						CreatedOnToolsVersion = 9.3;
 					};
 				};
 			};
-			buildConfigurationList = 30BE0D082099BA1D006B7CAD /* Build configuration list for PBXProject "imageDownloader" */;
+			buildConfigurationList = 301947A2209C4838005C42C4 /* Build configuration list for PBXProject "AroundPlace_PANGYO" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -107,54 +148,57 @@
 				en,
 				Base,
 			);
-			mainGroup = 30BE0D042099BA1D006B7CAD;
-			productRefGroup = 30BE0D0E2099BA1D006B7CAD /* Products */;
+			mainGroup = 3019479E209C4838005C42C4;
+			productRefGroup = 301947A8209C4839005C42C4 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				30BE0D0C2099BA1D006B7CAD /* imageDownloader */,
+				301947A6209C4838005C42C4 /* AroundPlace_PANGYO */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		30BE0D0B2099BA1D006B7CAD /* Resources */ = {
+		301947A5209C4838005C42C4 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				30BE0D1B2099BA1F006B7CAD /* LaunchScreen.storyboard in Resources */,
-				30BE0D182099BA1F006B7CAD /* Assets.xcassets in Resources */,
-				30BE0D162099BA1D006B7CAD /* Main.storyboard in Resources */,
+				301947B5209C483A005C42C4 /* LaunchScreen.storyboard in Resources */,
+				301947B2209C483A005C42C4 /* Assets.xcassets in Resources */,
+				3027CC39209C579B00B521B0 /* exam02.jpg in Resources */,
+				301947C3209C526E005C42C4 /* exam01.png in Resources */,
+				301947B0209C4839005C42C4 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		30BE0D092099BA1D006B7CAD /* Sources */ = {
+		301947A3209C4838005C42C4 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				30BE0D132099BA1D006B7CAD /* ViewController.swift in Sources */,
-				30BE0D112099BA1D006B7CAD /* AppDelegate.swift in Sources */,
+				301947AD209C4839005C42C4 /* ViewController.swift in Sources */,
+				301947C1209C4A7D005C42C4 /* MainTableViewCell.swift in Sources */,
+				301947AB209C4839005C42C4 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		30BE0D142099BA1D006B7CAD /* Main.storyboard */ = {
+		301947AE209C4839005C42C4 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				30BE0D152099BA1D006B7CAD /* Base */,
+				301947AF209C4839005C42C4 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		30BE0D192099BA1F006B7CAD /* LaunchScreen.storyboard */ = {
+		301947B3209C483A005C42C4 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				30BE0D1A2099BA1F006B7CAD /* Base */,
+				301947B4209C483A005C42C4 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -162,7 +206,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		30BE0D1D2099BA1F006B7CAD /* Debug */ = {
+		301947B7209C483A005C42C4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -222,7 +266,7 @@
 			};
 			name = Debug;
 		};
-		30BE0D1E2099BA1F006B7CAD /* Release */ = {
+		301947B8209C483A005C42C4 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -276,39 +320,37 @@
 			};
 			name = Release;
 		};
-		30BE0D202099BA1F006B7CAD /* Debug */ = {
+		301947BA209C483A005C42C4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = "";
-				INFOPLIST_FILE = imageDownloader/Info.plist;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 5Y92W5N2FZ;
+				INFOPLIST_FILE = AroundPlace_PANGYO/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = kr.ghun.imageDownloader;
+				PRODUCT_BUNDLE_IDENTIFIER = "kr.ghun.AroundPlace-PANGYO";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		30BE0D212099BA1F006B7CAD /* Release */ = {
+		301947BB209C483A005C42C4 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = "";
-				INFOPLIST_FILE = imageDownloader/Info.plist;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 5Y92W5N2FZ;
+				INFOPLIST_FILE = AroundPlace_PANGYO/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = kr.ghun.imageDownloader;
+				PRODUCT_BUNDLE_IDENTIFIER = "kr.ghun.AroundPlace-PANGYO";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -317,25 +359,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		30BE0D082099BA1D006B7CAD /* Build configuration list for PBXProject "imageDownloader" */ = {
+		301947A2209C4838005C42C4 /* Build configuration list for PBXProject "AroundPlace_PANGYO" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				30BE0D1D2099BA1F006B7CAD /* Debug */,
-				30BE0D1E2099BA1F006B7CAD /* Release */,
+				301947B7209C483A005C42C4 /* Debug */,
+				301947B8209C483A005C42C4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		30BE0D1F2099BA1F006B7CAD /* Build configuration list for PBXNativeTarget "imageDownloader" */ = {
+		301947B9209C483A005C42C4 /* Build configuration list for PBXNativeTarget "AroundPlace_PANGYO" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				30BE0D202099BA1F006B7CAD /* Debug */,
-				30BE0D212099BA1F006B7CAD /* Release */,
+				301947BA209C483A005C42C4 /* Debug */,
+				301947BB209C483A005C42C4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 30BE0D052099BA1D006B7CAD /* Project object */;
+	rootObject = 3019479F209C4838005C42C4 /* Project object */;
 }
